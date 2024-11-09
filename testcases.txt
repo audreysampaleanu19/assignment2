@@ -1,0 +1,7 @@
+Test 2001: Server listening for connections on port 5555
+Test 2002: Usage: <terminated>
+                java ClientConsole <loginId> [host] [port]
+Test 2003: ERROR - Can't setup connection! Terminating client.
+Test 2004: A new client has connected to the server.
+           Message received: #login <loginID> from null.
+           <loginID> has logged on.
